@@ -7,4 +7,4 @@ written in visual c# 2005 on a windows 2000 virtual machine and yes it does inde
 
 (natively on winxp but for win2k you need to install some rollups and kernel extensions)
 
-requires .net 2.0
+requires .net 2.0 minimum
