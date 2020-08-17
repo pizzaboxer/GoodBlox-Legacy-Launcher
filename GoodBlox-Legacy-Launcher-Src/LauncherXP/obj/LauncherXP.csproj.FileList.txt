@@ -1,0 +1,16 @@
+obj\Debug\LauncherXP.exe
+obj\Debug\LauncherXP.pdb
+bin\Debug\LauncherXP.exe
+bin\Debug\LauncherXP.pdb
+bin\Debug\Interop.RobloxLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.RobloxLib.dll
+obj\Debug\LauncherXP.csproj.ResolveComReference.cache
+bin\Release\LauncherXP.exe
+bin\Release\LauncherXP.pdb
+bin\Release\Interop.RobloxLib.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.RobloxLib.dll
+obj\Release\LauncherXP.csproj.ResolveComReference.cache
+obj\Release\LauncherXP.exe
+obj\Release\LauncherXP.pdb

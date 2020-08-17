@@ -1,0 +1,16 @@
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\obj\Release\LauncherXP.exe
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\obj\Release\LauncherXP.pdb
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\bin\Debug\LauncherXP.exe
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\bin\Debug\LauncherXP.pdb
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\bin\Debug\Interop.RobloxLib.dll
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\obj\Debug\Interop.RobloxLib.dll
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\obj\Debug\LauncherXP.csproj.ResolveComReference.cache
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\obj\Debug\LauncherXP.exe
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\obj\Debug\LauncherXP.pdb
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\bin\Release\LauncherXP.exe
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\bin\Release\LauncherXP.pdb
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\bin\Release\Interop.RobloxLib.dll
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\obj\Release\Interop.RobloxLib.dll
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\LauncherXP\obj\Release\LauncherXP.csproj.ResolveComReference.cache

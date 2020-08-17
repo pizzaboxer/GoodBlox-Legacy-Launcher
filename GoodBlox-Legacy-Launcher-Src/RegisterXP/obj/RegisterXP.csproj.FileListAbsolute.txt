@@ -1,0 +1,12 @@
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\RegisterXP\bin\Debug\RegisterXP.exe.config
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\RegisterXP\bin\Debug\RegisterXP.exe
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\RegisterXP\bin\Debug\RegisterXP.pdb
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\RegisterXP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\RegisterXP\obj\Debug\RegisterXP.exe
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\RegisterXP\obj\Debug\RegisterXP.pdb
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\RegisterXP\bin\Release\RegisterXP.exe.config
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\RegisterXP\bin\Release\RegisterXP.exe
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\RegisterXP\bin\Release\RegisterXP.pdb
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\RegisterXP\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\RegisterXP\obj\Release\RegisterXP.exe
+C:\Documents and Settings\Win2K\Desktop\LauncherXP\RegisterXP\obj\Release\RegisterXP.pdb

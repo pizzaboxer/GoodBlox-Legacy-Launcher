@@ -1,0 +1,12 @@
+bin\Release\RegisterXP.exe.config
+bin\Release\RegisterXP.exe
+bin\Release\RegisterXP.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\RegisterXP.exe
+obj\Release\RegisterXP.pdb
+bin\Debug\RegisterXP.exe.config
+bin\Debug\RegisterXP.exe
+bin\Debug\RegisterXP.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RegisterXP.exe
+obj\Debug\RegisterXP.pdb
